@@ -1,1 +1,2 @@
 Webhook mirror verification: never gonna give you up.
+Periodic reconciliation recovered this push without a webhook.
