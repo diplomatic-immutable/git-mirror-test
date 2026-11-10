@@ -1,2 +1,3 @@
 2026-11-09 22:49:21 UTC | Dashboard demo: first push from the one-page UI
 2026-11-09 22:55:30 UTC | hello world
+2026-11-10 00:09:10 UTC | Sparse dashboard push after 512 MiB fixture
